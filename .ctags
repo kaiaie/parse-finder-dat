@@ -1,0 +1,9 @@
+--verbose
+--exclude=project.d/*
+--exclude=tmp/*
+--exclude=out/*
+--excmd=number
+--tag-relative=no
+--fields=+a+m+n+S
+--recurse
+
